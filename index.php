@@ -1,1 +1,2 @@
-<? php (" index.html ");
+<?php
+require_once("index.html");
